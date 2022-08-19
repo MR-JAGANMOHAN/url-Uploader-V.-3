@@ -1,3 +1,7 @@
+# SOURCE CODE EXPIRED [ 🗑️ ] 🤧
+
+
+
 #### [UPLOADER-BOT](https://t.me/uploader_x_bot)
 
 [![Size](https://img.shields.io/github/repo-size/Clinton-Abraham/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
@@ -14,8 +18,6 @@ Telegram RoBot to Upload Links.
 
 👉 Upload zee5, sony.live, voot and much more.
 
-👉 Inline torrent search support.
-
 👉  Permanent thumbnail Support.
 
 👉 Broadcast message.
@@ -28,7 +30,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Clinton-Abraham/UPLOADER-BOT/issues/14#issuecomment-1021253536)
 
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)

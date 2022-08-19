@@ -11,7 +11,7 @@ class Config(object):
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     # Telegram maximum file upload size
     MAX_FILE_SIZE = 50000000
-    TG_MAX_FILE_SIZE = 2097152000
+    TG_MAX_FILE_SIZE = 4194304000 #2097152000
     FREE_USER_MAX_FILE_SIZE = 50000000
     # chunk size that should be used with requests
     CHUNK_SIZE = int(128)
@@ -29,3 +29,4 @@ class Config(object):
     # database uri (mongodb)
     DATABASE_URL = os.environ.get("DATABASE_URL", "")
     MAX_RESULTS = "50"
+    PREMIUM_USER = os.environ.get("PREMIUM_USER")

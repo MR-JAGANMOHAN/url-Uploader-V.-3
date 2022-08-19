@@ -1,6 +1,6 @@
 numpy
-Pillow
 yt-dlp
+Pillow
 aiohttp
 hachoir
 olefile
